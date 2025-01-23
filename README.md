@@ -13,7 +13,7 @@ Every OCU student is welcome to contribute, just make sure you follow our [Code 
 
 #### Branching strategy 
 
-The branching strategy will be a simplified version of [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). We will have a main branch, and devlop branch, and feature/bugfix branches.
+The branching strategy will be a simplified version of [Gitflow](https://nvie.com/posts/a-successful-git-branching-model/). We will have a main branch, and develop branch, and feature/bugfix branches.
 
 In summary, the main branch will be the [working build](https://www.techtarget.com/searchsoftwarequality/definition/build#:~:text=a%20software%20build%20is%20a%20set%20of%20executable%20code%20that%20is%20ready%20for%20use%20by%20customers.) that students will have on their phones, the devlop branch will be where we will compile a series of changes before being merged into main. The feature and bugfix branches will be for individual changes and bug fixes. 
 
